@@ -1,0 +1,1 @@
+{"processes":{"0b625316-af57-455e-a025-4562fd9d8db1":{"parent":"9f55995c-ba76-481e-918f-b9ca5ebfc409","children":[]},"9f55995c-ba76-481e-918f-b9ca5ebfc409":{"parent":null,"children":["0b625316-af57-455e-a025-4562fd9d8db1"]}},"files":{"/home/usuario/Practicas/p10/src/claseCliente.ts":["0b625316-af57-455e-a025-4562fd9d8db1"]},"externalIds":{}}
