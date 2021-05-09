@@ -340,6 +340,7 @@ En esta clase lo que haremos será gestionar los eventos del programa. Emite el 
 ### claseCliente.ts y pruebaTest.ts
 Lo que se ha realizado en estos dos fichero ha sido una implementación para realizar los test de forma cómoda y según nuestros intereses. Para ello se crea un nuevo evento que ya tiene la respuesta del servidor procesada.
 
-
+## Conclusion
+Durante la realización de esta práctica he entendido mejor los conocimientos vistos en clase y como he indicado al profesor Eduardo Segrede en un correo me hubiera gustado tener un poco más de tiempo para mejorar el código y poder realizar un poco mejor este informe, por ello pido disculpas. Resaltar que creo que ha sido una buena idea modificar un poco el código para hacer que las pruebas con Mocha sean más cómoda.
 
 
