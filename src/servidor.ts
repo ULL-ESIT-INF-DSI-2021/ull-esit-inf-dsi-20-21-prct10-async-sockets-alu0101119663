@@ -6,7 +6,7 @@ const notas: Notas = Notas.getNotas();
 
 const server = net.createServer((connection) => {
   const serverEvent = new RequestEventEmitterServer(connection);
-  console.log('A client has connected.');
+  console.log('Se ha conectado');
 
   serverEvent.on('request', (peticion) => {
     switch (peticion.type) {
